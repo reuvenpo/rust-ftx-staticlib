@@ -1,5 +1,5 @@
 [package]
-name = "sgx-ftx-playgroung"
+name = "app-chcek"
 version = "0.1.0"
 authors = ["Reuven Podmazo <reuven@enigma.co>"]
 edition = "2018"
